@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../Sem-3-Shopclues"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../layouts"
+		},
+		{
+			"path": "../middleware"
+		},
+		{
+			"path": "../pages"
+		},
+		{
+			"path": "../plugins"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../store"
+		}
+	],
+	"settings": {}
+}

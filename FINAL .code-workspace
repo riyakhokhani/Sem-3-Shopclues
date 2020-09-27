@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/FILES/assets"
+		},
+		{
+			"path": "../Desktop/FILES/components"
+		},
+		{
+			"path": "../Desktop/FILES/layouts"
+		},
+		{
+			"path": "../Desktop/FILES/middleware"
+		},
+		{
+			"path": "../Desktop/FILES/pages"
+		},
+		{
+			"path": "../Desktop/FILES/plugins"
+		},
+		{
+			"path": "../Desktop/FILES/static"
+		},
+		{
+			"path": "../Desktop/FILES/store"
+		}
+	],
+	"settings": {}
+}

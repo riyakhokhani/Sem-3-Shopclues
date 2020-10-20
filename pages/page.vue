@@ -12,7 +12,7 @@
       cols='1'
     >
     <p id="card-title-text">
-      SHIPMENT & TRACKING
+      SHIPMENT and TRACKING
     </p>
     <v-progress-linear value="100" color="grey"></v-progress-linear>
     <v-row>

@@ -1,0 +1,20 @@
+{
+  "Arrow": {
+    "description": "Auto imported from components/arrow.vue"
+  },
+  "LazyArrow": {
+    "description": "Auto imported from components/arrow.vue"
+  },
+  "Shopclueslogo": {
+    "description": "Auto imported from components/shopclueslogo.vue"
+  },
+  "LazyShopclueslogo": {
+    "description": "Auto imported from components/shopclueslogo.vue"
+  },
+  "Status": {
+    "description": "Auto imported from components/status.vue"
+  },
+  "LazyStatus": {
+    "description": "Auto imported from components/status.vue"
+  }
+}

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "Arrow": {
     "description": "Auto imported from components/arrow.vue"
@@ -18,3 +19,6 @@
     "description": "Auto imported from components/status.vue"
   }
 }
+=======
+{}
+>>>>>>> Stashed changes

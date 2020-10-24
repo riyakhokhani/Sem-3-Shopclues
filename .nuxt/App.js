@@ -7,7 +7,11 @@ import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
 import '../node_modules/vuetify/dist/vuetify.css'
 
+<<<<<<< Updated upstream
 import _6f6c098b from '../layouts/default.vue'
+=======
+import _6f6c098b from './layouts/default.vue'
+>>>>>>> Stashed changes
 
 const layouts = { "_default": sanitizeComponent(_6f6c098b) }
 

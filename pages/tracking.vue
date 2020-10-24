@@ -4,6 +4,7 @@
     <v-card
       elevation="13"
       color="white"
+      
       class="mx-auto"
       height="700"
       max-width="1000"

@@ -2,22 +2,22 @@
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "/Users/riyakhokhani14/Sem-3-Shopclues/pages/inspire.vue",
+    "component": "/Users/riyakhokhani14/Documents/GitHub/Sem-3-Shopclues/pages/inspire.vue",
     "chunkName": "pages/inspire",
-    "_name": "_6b819f30"
+    "_name": "_69f25b9b"
   },
   {
     "name": "page",
     "path": "/page",
-    "component": "/Users/riyakhokhani14/Sem-3-Shopclues/pages/page.vue",
+    "component": "/Users/riyakhokhani14/Documents/GitHub/Sem-3-Shopclues/pages/page.vue",
     "chunkName": "pages/page",
-    "_name": "_09c530ae"
+    "_name": "_2054fb1e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/riyakhokhani14/Sem-3-Shopclues/pages/index.vue",
+    "component": "/Users/riyakhokhani14/Documents/GitHub/Sem-3-Shopclues/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_065f30a8"
+    "_name": "_efcbe85a"
   }
 ]
